@@ -19,3 +19,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - src/img/
+  fonts:
+    - family: 'Pacifico'
+      fonts:
+        - asset: src/fonts/Pacifico-Regular.ttf
